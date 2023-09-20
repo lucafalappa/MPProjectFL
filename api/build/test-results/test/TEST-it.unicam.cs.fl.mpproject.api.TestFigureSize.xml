@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite name="it.unicam.cs.fl.mpproject.api.TestFigureSize" tests="1" skipped="0" failures="0" errors="0" timestamp="2023-09-16T17:05:33" hostname="DESKTOP-H408RFD" time="0.004">
+  <properties/>
+  <testcase name="testFSgenerate()" classname="it.unicam.cs.fl.mpproject.api.TestFigureSize" time="0.004"/>
+  <system-out><![CDATA[]]></system-out>
+  <system-err><![CDATA[]]></system-err>
+</testsuite>

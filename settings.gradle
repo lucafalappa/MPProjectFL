@@ -1,0 +1,6 @@
+rootProject.name = 'it.unicam.cs.fl.mpproject'
+include 'untitled'
+include 'api'
+include 'app'
+include 'utilities'
+

@@ -1,0 +1,5 @@
+apply plugin: 'java'
+
+javadoc {
+    destinationDir = file("${buildDir}/docs/javadoc")
+}

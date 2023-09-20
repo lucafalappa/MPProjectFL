@@ -1,0 +1,129 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite name="it.unicam.cs.fl.mpproject.api.TestGeneralRobotCMD" tests="12" skipped="0" failures="0" errors="0" timestamp="2023-09-16T17:05:33" hostname="DESKTOP-H408RFD" time="0.06">
+  <properties/>
+  <testcase name="testGRCMDrepeatCMD()" classname="it.unicam.cs.fl.mpproject.api.TestGeneralRobotCMD" time="0.009"/>
+  <testcase name="testGRCMDdoForeverCMD()" classname="it.unicam.cs.fl.mpproject.api.TestGeneralRobotCMD" time="0.002"/>
+  <testcase name="testGRCMDdoneCMD()" classname="it.unicam.cs.fl.mpproject.api.TestGeneralRobotCMD" time="0.004"/>
+  <testcase name="testGRCMDuntilCMD()" classname="it.unicam.cs.fl.mpproject.api.TestGeneralRobotCMD" time="0.004"/>
+  <testcase name="testGRCMDstopCMD()" classname="it.unicam.cs.fl.mpproject.api.TestGeneralRobotCMD" time="0.003"/>
+  <testcase name="testGRCMDmoveRandomCMD()" classname="it.unicam.cs.fl.mpproject.api.TestGeneralRobotCMD" time="0.004"/>
+  <testcase name="testGRCMDfollowCMD()" classname="it.unicam.cs.fl.mpproject.api.TestGeneralRobotCMD" time="0.005"/>
+  <testcase name="testGRCMDsignalCMD()" classname="it.unicam.cs.fl.mpproject.api.TestGeneralRobotCMD" time="0.002"/>
+  <testcase name="testGRCMDcontinueCMD()" classname="it.unicam.cs.fl.mpproject.api.TestGeneralRobotCMD" time="0.006"/>
+  <testcase name="testGRCMDcloneCMD()" classname="it.unicam.cs.fl.mpproject.api.TestGeneralRobotCMD" time="0.0"/>
+  <testcase name="testGRCMDmoveCMD()" classname="it.unicam.cs.fl.mpproject.api.TestGeneralRobotCMD" time="0.001"/>
+  <testcase name="testGRCMDunsignalCMD()" classname="it.unicam.cs.fl.mpproject.api.TestGeneralRobotCMD" time="0.004"/>
+  <system-out><![CDATA[
+REPEAT HAS BEEN STARTED
+
+MOVE HAS BEEN STARTED
+
+REPEAT HAS BEEN STARTED
+
+MOVE HAS BEEN STARTED
+
+REPEAT HAS BEEN STARTED
+
+MOVE HAS BEEN STARTED
+
+REPEAT HAS BEEN STARTED
+
+MOVE HAS BEEN STARTED
+
+REPEAT HAS BEEN STARTED
+
+MOVE HAS BEEN STARTED
+
+DO FOREVER HAS BEEN STARTED
+
+MOVE HAS BEEN STARTED
+
+DONE HAS BEEN STARTED
+
+MOVE HAS BEEN STARTED
+
+UNTIL HAS BEEN STARTED
+
+MOVE HAS BEEN STARTED
+
+UNTIL HAS BEEN STARTED
+
+MOVE HAS BEEN STARTED
+
+UNTIL HAS BEEN STARTED
+
+MOVE HAS BEEN STARTED
+
+UNTIL HAS BEEN STARTED
+
+MOVE HAS BEEN STARTED
+
+MOVE HAS BEEN STARTED
+
+STOP HAS BEEN STARTED
+
+MOVE HAS BEEN STARTED
+
+MOVE HAS BEEN STARTED
+
+MOVE RANDOM HAS BEEN STARTED
+46.6389752468184
+56.922543753721115
+
+FOLLOW HAS BEEN STARTED
+
+MOVE HAS BEEN STARTED
+
+SIGNAL HAS BEEN STARTED
+
+CONTINUE HAS BEEN STARTED
+
+MOVE HAS BEEN STARTED
+
+CONTINUE HAS BEEN STARTED
+
+MOVE HAS BEEN STARTED
+
+CONTINUE HAS BEEN STARTED
+
+MOVE HAS BEEN STARTED
+
+CONTINUE HAS BEEN STARTED
+
+MOVE HAS BEEN STARTED
+
+CONTINUE HAS BEEN STARTED
+
+MOVE HAS BEEN STARTED
+
+CONTINUE HAS BEEN STARTED
+
+MOVE HAS BEEN STARTED
+
+CONTINUE HAS BEEN STARTED
+
+MOVE HAS BEEN STARTED
+
+CONTINUE HAS BEEN STARTED
+
+MOVE HAS BEEN STARTED
+
+CONTINUE HAS BEEN STARTED
+
+MOVE HAS BEEN STARTED
+
+CONTINUE HAS BEEN STARTED
+
+MOVE HAS BEEN STARTED
+
+MOVE HAS BEEN STARTED
+40.0
+
+MOVE HAS BEEN STARTED
+
+UNSIGNAL HAS BEEN STARTED
+
+UNSIGNAL HAS BEEN STARTED
+]]></system-out>
+  <system-err><![CDATA[]]></system-err>
+</testsuite>
